@@ -1,0 +1,23 @@
+body{
+    font-family: PingFangSC-Light,helvetica neue,hiragino sans gb,arial,microsoft yahei ui,microsoft yahei,simsun,sans-serif;
+    -webkit-font-smoothing: antialiased; /*chrome、safari*/
+    -moz-osx-font-smoothing: grayscale;/*firefox*/
+    -webkit-tap-highlight-color: transparent;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#app {
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 14px;
+    color: #2c3e50;
+}
+
+ul,li,h3,span,p{margin: 0;padding: 0;}
+ul{ list-style-type: none;}
+.fl{float: left;}
+.fr{float: right;}
+.clear {clear:both;height:0;overflow:hidden;}
